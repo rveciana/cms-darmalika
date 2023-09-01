@@ -6,3 +6,7 @@ isPublish: true
 isDraft: false
 ---
 fdsfddsfs
+
+
+
+![alternativee text](/images/00000002_34_page2.jpg "The image")
